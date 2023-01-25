@@ -72,7 +72,8 @@ struct ContentView: View {
         .foregroundColor(.white)
     }
     
-    
+    //add comment to compare source controls
+    //delet after confirmation of git commit
     
     
 }
